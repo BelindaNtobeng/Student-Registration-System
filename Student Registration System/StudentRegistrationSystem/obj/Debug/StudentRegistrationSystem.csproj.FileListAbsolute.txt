@@ -1,0 +1,12 @@
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe.config
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.pdb
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Form1.resources
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Form2.resources
+C:\Users\katle\OneDrive\Desktop\ITPCA\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Form3.resources
